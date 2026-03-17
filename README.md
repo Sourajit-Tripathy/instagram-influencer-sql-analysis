@@ -59,4 +59,15 @@ Contains date attributes:
 
 ---
 
-## Repository Structure
+
+---
+
+## Presentation
+
+Slides explaining analysis and insights are available in the presentation folder.
+
+---
+
+## Author
+
+Sourajit Tripathy
