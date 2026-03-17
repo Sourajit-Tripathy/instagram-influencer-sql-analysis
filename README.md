@@ -80,13 +80,10 @@ Contains date attributes:
 ---
 
 
----
-
 ## 🎥 Project Presentation
 
 Watch the full presentation of the **Instagram Influencer SQL Analysis Project** completed as part of the **Codebasics Virtual Internship**.
 
-[![Watch the video](https://img.youtube.com/vi/tYWUMz1sMKw/0.jpg)](http://youtube.com/watch?v=tYWUMz1sMKw)
 
 ▶️ **YouTube Link:** http://youtube.com/watch?v=tYWUMz1sMKw
 ---
