@@ -1,5 +1,20 @@
 # Instagram Influencer SQL Analysis
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=833AB4,F56040,FCAF45&height=220&section=header&text=Instagram%20Influencer%20SQL%20Analysis&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+</p>
+
+<p align="center">
+SQL Data Analytics Project • Codebasics Internship
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-Analysis-blue?style=for-the-badge&logo=mysql"/>
+  <img src="https://img.shields.io/badge/MySQL-Database-orange?style=for-the-badge&logo=mysql"/>
+  <img src="https://img.shields.io/badge/Data%20Analytics-Project-green?style=for-the-badge"/>
+</p>
+
+
 This project analyzes Instagram activity data of a tech influencer to uncover engagement trends, reach distribution, and follower growth insights.
 
 The analysis was completed as part of the **Codebasics Internship Challenge**.
